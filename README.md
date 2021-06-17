@@ -1,10 +1,10 @@
 # Metodos Numéricos
 
-Conjunto de aulas de Métodos Numéricos para Engenharia Civil (UFMS). As aulas aqui são voltadas para aplicações em python e utilizam como ferramenta a plataforma Jupyter Labs. O diretório é compatível com os interpretadores [My Binder](https://mybinder.org/) e [Google Colab](https://colab.research.google.com/).
+Conjunto de aulas de Métodos Numéricos para Engenharia Civil (UFMS). As aulas aqui são voltadas para aplicações em python e utilizam como ferramenta a plataforma Jupyter Labs. O diretório é compatível com os interpretadores [My Binder](https://mybinder.org/v2/gh/Worth-Option/Metodos_Numericos_UFMS/HEAD) e [Google Colab](https://colab.research.google.com/).
 
 Estas aulas estão divididas em 5 tópicos:
 
-1. Introdução ao Python
+1. [Introdução ao Python](https://mybinder.org/v2/gh/Worth-Option/Metodos_Numericos_UFMS/4b7e5736c0025e06e36a37a36b2cb51c64aeb628)
 2. Zero de Funções
 3. Sistemas Lineares
 4. Ajuste de Curvas e Interpolação Polinomial
