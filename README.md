@@ -4,11 +4,13 @@ Conjunto de aulas de Métodos Numéricos para Engenharia Civil (UFMS). As aulas 
 
 Estas aulas estão divididas em 5 tópicos:
 
-1. [Introdução ao Python](https://mybinder.org/v2/gh/Worth-Option/Metodos_Numericos_UFMS/4b7e5736c0025e06e36a37a36b2cb51c64aeb628)
-2. [Zero de Funções](https://mybinder.org/v2/gh/Worth-Option/Metodos_Numericos_UFMS/a76ec05b257c14d989b657998071664c2f0009df)
+1. Introdução ao Python
+2. Zero de Funções
 3. Sistemas Lineares
 4. Ajuste de Curvas e Interpolação Polinomial
 5. Equações Diferenciais Ordinárias
+
+Os vídeos das aulas estão no canal do nosso laboratório no youTube: [Coffee Lab](https://www.youtube.com/watch?v=bSqYOphKVUU&list=PLtoJq67nINbAIzfCvufZoDCvYbXL_1JB6)
 
 ## Referências
 
