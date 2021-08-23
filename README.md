@@ -7,7 +7,7 @@ Estas aulas estão divididas em 5 tópicos:
 1. Introdução ao Python
 2. Zero de Funções
 3. Sistemas Lineares
-4. Ajuste de Curvas e Interpolação Polinomial
+4. Integração Numérica
 5. Equações Diferenciais Ordinárias
 
 Os vídeos das aulas estão no canal do nosso laboratório no youTube: [Coffee Lab](https://www.youtube.com/watch?v=bSqYOphKVUU&list=PLtoJq67nINbAIzfCvufZoDCvYbXL_1JB6)
